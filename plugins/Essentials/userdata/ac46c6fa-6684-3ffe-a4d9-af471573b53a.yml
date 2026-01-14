@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.17.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1743591358124
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1743592438432
+  login: 1743592034270
+money: '0'
+last-account-name: Patel
+logoutlocation:
+  world: 6bba3a19-3c6c-4152-b493-3df7c2cbd427
+  world-name: world
+  x: -2816.589657015097
+  y: 69.0
+  z: -1253.5062787282754
+  yaw: 166.3499298095703
+  pitch: -1.6499851942062378
+lastlocation:
+  world: 6bba3a19-3c6c-4152-b493-3df7c2cbd427
+  world-name: world
+  x: -3944.388923128198
+  y: 70.0
+  z: -1201.699999988079
+  yaw: 7.200103759765625
+  pitch: 22.94998550415039
+homes:
+  home:
+    world: 6bba3a19-3c6c-4152-b493-3df7c2cbd427
+    world-name: world
+    x: -2808.76027334391
+    y: 39.0
+    z: -1238.3610800874692
+    yaw: -152.151611328125
+    pitch: 13.800044059753418

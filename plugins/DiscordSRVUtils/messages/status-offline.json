@@ -1,0 +1,20 @@
+{
+  "embed": {
+    "title": ":red_circle: Offline",
+    "description": "Idle Mode",
+    "color": "red",
+    "timestamp": "now",
+    "footer": {
+      "text": "DevilSMP is offline"
+    },
+    "thumbnail": {
+      "url": "https://c.tenor.com/xSP7WEOmW80AAAAd/tenor.gif"
+    },
+    "fields": [
+      {
+        "name": "Server IP",
+        "value": "devilsmps.ddns.net:25137"
+      }
+    ]
+  }
+}

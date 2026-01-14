@@ -1,0 +1,41 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.114.7.124
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1743148049696
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1743148166555
+  login: 1743144650443
+  command-cooldowns:
+  - pattern: .*( .*)?
+    value: 1743148052133
+money: '100'
+last-account-name: siraikidakait
+lastlocation:
+  world: 89ceb5d1-3206-42e2-b8e5-d1aae768b7c5
+  world-name: world
+  x: 1870.592847204231
+  y: -31.0
+  z: 306.8962056719347
+  yaw: 31.83197021484375
+  pitch: 9.270410537719727
+logoutlocation:
+  world: 89ceb5d1-3206-42e2-b8e5-d1aae768b7c5
+  world-name: world
+  x: 1872.3453634828725
+  y: -26.0
+  z: 307.55573123298353
+  yaw: 150.14215087890625
+  pitch: 40.32026290893555

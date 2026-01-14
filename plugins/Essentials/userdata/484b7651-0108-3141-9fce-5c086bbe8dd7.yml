@@ -1,0 +1,33 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.114.7.124
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1743010675848
+  login: 1743007945919
+  command-cooldowns:
+  - pattern: .*( .*)?
+    value: 1743008004073
+money: '100'
+last-account-name: Aakarsh
+logoutlocation:
+  world: 89ceb5d1-3206-42e2-b8e5-d1aae768b7c5
+  world-name: world
+  x: -931.8805694443072
+  y: 88.28831545794193
+  z: -504.67335059873426
+  yaw: 161.10101318359375
+  pitch: 6.6000261306762695

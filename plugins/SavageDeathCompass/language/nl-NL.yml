@@ -1,0 +1,82 @@
+# Language configuration file for SavageDeathCompass v1.13.5
+
+###########
+# Item Info
+###########
+ITEM_INFO:
+  # Item Display Name
+  ITEM_NAME: '&6Kompas der doden'
+
+  # Item Lore
+  ITEM_LORE:
+  - '&eWijst je de weg'
+  - '&enaar je dodenkist'
+
+
+# Variable substitutions:
+# %ITEM%            Item name as configured above
+# %PLAYER%          Player's full name
+# %WORLD%           World name that player is in
+
+##########
+# Messages
+##########
+MESSAGES:
+  ACTION_PLAYER_RESPAWN:
+    enabled: true
+    string: '&eVind je dodenkist terug met behulp van het &6%ITEM%.'
+
+  ACTION_ITEM_DESTROY:
+    enabled: true
+    string: '&c%ITEM% is vernietigd.'
+
+  ACTION_INVENTORY_DENY_TRANSFER:
+    enabled: true
+    string: '&c%ITEM% kan niet worden verplaatst.\n Vernietig het door het te laten vallen.'
+
+
+  COMMAND_FAIL_INVALID_COMMAND:
+    enabled: true
+    string: '&cDat is geen geldig bevel!'
+    # available subs: %PLAYER%
+
+  COMMAND_FAIL_HELP_PERMISSION:
+    enabled: true
+    string: '&cU heeft geen toestemming om DeathCompass-help weer te geven!'
+    # available subs: %PLAYER%
+
+  COMMAND_FAIL_RELOAD_PERMISSION:
+    enabled: true
+    string: '&cU heeft geen toestemming om de DeathCompass-configuratie opnieuw te laden!'
+    # available subs: %PLAYER%
+
+  COMMAND_FAIL_STATUS_PERMISSION:
+    enabled: true
+    string: '&cU heeft geen toestemming om DeathCompass-instellingen te bekijken!'
+    # available subs: %PLAYER%
+
+  COMMAND_SUCCESS_RELOAD:
+    enabled: true
+    string: '&7DeathCompass-configuratie opnieuw geladen.'
+    # available subs: %PLAYER%
+
+
+  COMMAND_HELP_HELP:
+    enabled: true
+    string: '&eGeeft hulp weer voor DeathCompass-commando's.'
+
+  COMMAND_HELP_RELOAD:
+    enabled: true
+    string: '&eLaadt de plug-inconfiguratie opnieuw.'
+
+  COMMAND_HELP_STATUS:
+    enabled: true
+    string: '&eGeeft configuratie-instellingen voor plug-ins weer.'
+
+  COMMAND_HELP_INVALID:
+    enabled: true
+    string: '&eDat is geen geldig bevel.'
+
+  COMMAND_HELP_USAGE:
+    enabled: true
+    string: '&eGebruik van de opdracht:'

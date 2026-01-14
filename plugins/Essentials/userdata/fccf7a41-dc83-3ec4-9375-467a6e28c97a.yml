@@ -1,0 +1,66 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.17.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1743796646377
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1743797304943
+  login: 1743796810498
+  command-cooldowns:
+  - pattern: .*( .*)?
+    value: 1743200937648
+money: '90.0'
+last-account-name: ME_Jaldi
+lastlocation:
+  world: 6bba3a19-3c6c-4152-b493-3df7c2cbd427
+  world-name: world
+  x: -1850.2097101361262
+  y: 38.0
+  z: -1338.699999988079
+  yaw: -160.837890625
+  pitch: -7.800014019012451
+homes:
+  base:
+    world: 6bba3a19-3c6c-4152-b493-3df7c2cbd427
+    world-name: world
+    x: -2817.9676003244144
+    y: 44.0
+    z: -1253.7869605014985
+    yaw: -89.74755859375
+    pitch: 35.10000228881836
+  blaze:
+    world: dd3ebeea-10b9-42ce-85c5-629d21c9566e
+    world-name: world_nether
+    x: -637.441180014512
+    y: 74.0
+    z: -115.30000001192093
+    yaw: 177.1029052734375
+    pitch: 10.800040245056152
+  rg:
+    world: 6bba3a19-3c6c-4152-b493-3df7c2cbd427
+    world-name: world
+    x: -881.5872690370048
+    y: 65.0
+    z: 2482.3018396431157
+    yaw: -90.88287353515625
+    pitch: 38.550025939941406
+logoutlocation:
+  world: 6bba3a19-3c6c-4152-b493-3df7c2cbd427
+  world-name: world
+  x: -1850.0037801814026
+  y: 62.11076428890229
+  z: -1369.3787721077558
+  yaw: 18.262718200683594
+  pitch: 19.80000114440918

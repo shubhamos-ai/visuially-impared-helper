@@ -1,0 +1,53 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.17.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1743498840100
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1743499091186
+  login: 1743495871378
+  kits:
+    starter: 1743066856854
+    starterreal: 1743066341168
+  command-cooldowns:
+  - pattern: .*( .*)?
+    value: 1743067584347
+money: '80.0'
+last-account-name: TheLostOne2
+lastlocation:
+  world: 6bba3a19-3c6c-4152-b493-3df7c2cbd427
+  world-name: world
+  x: -2723.436872390236
+  y: -15.0
+  z: -1591.300000011921
+  yaw: -178.5236358642578
+  pitch: 43.800052642822266
+logoutlocation:
+  world: 6bba3a19-3c6c-4152-b493-3df7c2cbd427
+  world-name: world
+  x: -2718.4995769252723
+  y: 44.0
+  z: -1585.1143716159738
+  yaw: -155.68524169921875
+  pitch: 28.050281524658203
+homes:
+  village:
+    world: 6bba3a19-3c6c-4152-b493-3df7c2cbd427
+    world-name: world
+    x: -2698.3903131693087
+    y: 73.0
+    z: -1657.7055519374587
+    yaw: -67.19995880126953
+    pitch: 0.9000396132469177

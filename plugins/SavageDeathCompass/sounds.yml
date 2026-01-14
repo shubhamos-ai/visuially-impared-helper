@@ -1,0 +1,36 @@
+# Sound configuration file for SavageDeathCompass v1.18.4
+
+COMMAND_FAIL:
+  enabled: true
+  player-only: true
+  sound: ENTITY_VILLAGER_NO
+  volume: 1
+  pitch: 1
+
+COMMAND_INVALID:
+  enabled: true
+  player-only: true
+  sound: ENTITY_WANDERING_TRADER_AMBIENT
+  volume: 1
+  pitch: 1
+
+COMMAND_RELOAD_SUCCESS:
+  enabled: true
+  player-only: true
+  sound: BLOCK_NOTE_BLOCK_CHIME
+  volume: 1
+  pitch: 1
+
+INVENTORY_DENY_TRANSFER:
+  enabled: true
+  player-only: true
+  sound: ENTITY_VILLAGER_NO
+  volume: 1
+  pitch: 1
+
+PLAYER_DROP_COMPASS:
+  enabled: true
+  player-only: true
+  sound: ENTITY_ITEM_BREAK
+  volume: 1
+  pitch: 1

@@ -1,0 +1,9 @@
+You can disable the logging in the config file
+
+This file logs every player that disconnected during combat
+[2025/03/28 18:47:42] AKSTAR12345 tried to escape combat! (7s left) | In combat with: [Aritralegend] | World:world, X:-1320.80, Y:80.00, Z:-946.32
+[2025/03/28 23:52:55] Legendslayer_07 tried to escape combat! (5s left) | In combat with: [RG_1231] | World:world_nether, X:-389.71, Y:33.00, Z:50.96
+[2025/03/30 19:24:09] SadhyaNosy tried to escape combat! (6s left) | In combat with: [DEVILKINGS_07] | World:world, X:21.52, Y:64.00, Z:-103.98
+[2025/04/02 16:34:48] Patel tried to escape combat! (9s left) | In combat with: [ME_Jaldi] | World:world, X:-2796.14, Y:39.00, Z:-1248.47
+[2025/04/04 16:37:09] AKSTAR12345 tried to escape combat! (4s left) | In combat with: [RG_1231] | World:world, X:-787.44, Y:194.50, Z:2465.13
+[2025/04/04 17:05:13] recomplified tried to escape combat! (8s left) | In combat with: [DEVILKINGS_07] | World:world, X:-883.51, Y:56.00, Z:2487.68

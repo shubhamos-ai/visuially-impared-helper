@@ -1,0 +1,68 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.17.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1743770212993
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1743770561960
+  login: 1743765190471
+  kits:
+    starter: 1743069178744
+  command-cooldowns:
+  - pattern: .*( .*)?
+    value: 1743186449408
+money: '0.0'
+last-account-name: RG_1231
+logoutlocation:
+  world: 6bba3a19-3c6c-4152-b493-3df7c2cbd427
+  world-name: world
+  x: -869.6999999880791
+  y: 64.0
+  z: 2479.4708544886685
+  yaw: -140.96014404296875
+  pitch: 18.449951171875
+lastlocation:
+  world: 6bba3a19-3c6c-4152-b493-3df7c2cbd427
+  world-name: world
+  x: -778.7267776344219
+  y: 85.0
+  z: -561.1280307437668
+  yaw: 162.800048828125
+  pitch: 17.7198486328125
+homes:
+  vill:
+    world: 6bba3a19-3c6c-4152-b493-3df7c2cbd427
+    world-name: world
+    x: -799.7975993510024
+    y: 80.0
+    z: -541.9892521528847
+    yaw: -132.39328002929688
+    pitch: 37.980194091796875
+  farm:
+    world: 6bba3a19-3c6c-4152-b493-3df7c2cbd427
+    world-name: world
+    x: -787.5116262627953
+    y: 195.0
+    z: 2466.2565820315103
+    yaw: -169.58828735351562
+    pitch: -7.833739280700684
+  legend:
+    world: 6bba3a19-3c6c-4152-b493-3df7c2cbd427
+    world-name: world
+    x: -2817.699999988079
+    y: 70.0
+    z: -1247.300000011921
+    yaw: -114.667236328125
+    pitch: 34.329681396484375

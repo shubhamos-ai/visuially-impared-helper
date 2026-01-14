@@ -1,0 +1,55 @@
+players:
+  colorsdisabled: []
+  tempdisabled: []
+  particlesdisabled: []
+  knownplayers:
+  - a201a4da-13a1-30c0-8faa-aec6096c223b
+  - d866ed13-0169-37fe-a6ca-f0beeff92b29
+  - 24491ec4-b80f-3990-a471-cd4d50e30a02
+  - 71e0821e-edf7-3f14-bc52-2dda1fdbbefc
+  - fccf7a41-dc83-3ec4-9375-467a6e28c97a
+  - 6bc398e9-e2d4-383c-9479-474ff709b17c
+  - c6457f2b-dde8-3e52-83db-0c64a466fe2e
+  - ab36a32d-6ada-32e5-8622-0be6e33051e6
+  - e36d1199-6099-36be-9cfa-869f71b639bf
+  - d1829876-2ea4-3557-af2c-5afc63e8a4e6
+  - 7db87c4c-b6ce-3e48-b1a0-5b6a820fcee1
+  - 740c3fc2-eb7d-3b19-97ee-38c698288868
+  - 561007ba-50da-35d9-ac39-81e1afbc13be
+  - ac46c6fa-6684-3ffe-a4d9-af471573b53a
+  - 07e42d6c-d13a-36fa-82ad-8d403bfe5fbe
+  - 721aaf47-cb78-3fa1-8041-991105c74ac6
+  fahrenheit-mode: []
+worlds:
+  world: WINTER
+dates:
+  world:
+    day: 28
+    month: 1
+    year: 10
+temperature:
+  world: true
+time-paused: []
+placedblocks:
+  world:
+  - -3926,68,-1175,world
+  - 270,63,-394,world
+  - 267,63,-393,world
+  - -3952,68,-1069,world
+  - -2528,72,-535,world
+  - 271,63,-391,world
+  - 266,63,-392,world
+  - 53,83,-260,world
+  - -2842,67,-1223,world
+  - 266,63,-391,world
+  - -50,68,394,world
+  - 269,63,-394,world
+  - 270,63,-391,world
+  - -643,108,-566,world
+  - 270,63,-390,world
+  - 270,63,-393,world
+  - 267,63,-392,world
+placedpresents:
+  world: []
+placedeggs:
+  world: []

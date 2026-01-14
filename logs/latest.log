@@ -1,0 +1,419 @@
+[02:06:54] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:07:04] [ServerMain/INFO]: Loaded 1181 recipes
+[02:07:05] [ServerMain/INFO]: Loaded 1334 advancements
+[02:07:05] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[02:07:05] [Server thread/INFO]: Loading properties
+[02:07:05] [Server thread/INFO]: This server is running Paper version git-Paper-499 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: 9de3f75 on ver/1.20.4)
+[02:07:06] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:07:06] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:07:07] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[02:07:07] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[02:07:07] [Server thread/INFO]: Default game type: SURVIVAL
+[02:07:07] [Server thread/INFO]: Generating keypair
+[02:07:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:07:08] [Server thread/INFO]: Using epoll channel type
+[02:07:08] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[02:07:08] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[02:07:09] [Server thread/INFO]: [SpigotLibraryLoader] [PvPManager] Loading 2 libraries... please wait
+[02:07:09] [Server thread/INFO]: [SpigotLibraryLoader] [PvPManager] Loaded library /data/libraries/com/zaxxer/HikariCP/4.0.3/HikariCP-4.0.3.jar
+[02:07:09] [Server thread/INFO]: [SpigotLibraryLoader] [PvPManager] Loaded library /data/libraries/org/slf4j/slf4j-api/2.0.13/slf4j-api-2.0.13.jar
+[02:07:09] [Server thread/WARN]: [org.bukkit.craftbukkit.v1_20_R3.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[02:07:16] [Server thread/WARN]: Legacy plugin DevHider v0.8 does not specify an api-version.
+[02:07:16] [Server thread/WARN]: Legacy plugin Emotes v1.6 does not specify an api-version.
+[02:07:16] [Server thread/WARN]: Legacy plugin Ultimate_Name_Color v1.4.0 does not specify an api-version.
+[02:07:16] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.157
+[02:07:16] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[02:07:16] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[02:07:16] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0
+[02:07:16] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0
+[02:07:17] [Server thread/INFO]: [DiscordSRV] Loading server plugin DiscordSRV v1.29.0
+[02:07:17] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.7
+[02:07:17] [Server thread/INFO]: [GSit] Loading server plugin GSit v2.1.0
+[02:07:17] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.0-beta-03+d6d222e
+[02:07:18] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@2ab82f3e]
+[02:07:18] [Server thread/INFO]: [InteractiveChat] Loading server plugin InteractiveChat v4.2.16.0
+[02:07:18] [Server thread/INFO]: [OtherAnimalTeleport] Loading server plugin OtherAnimalTeleport v2.4-b98
+[02:07:18] [Server thread/INFO]: [TabCompleteFilter] Loading server plugin TabCompleteFilter v1.2.5
+[02:07:18] [Server thread/INFO]: [MiniMOTD] Loading server plugin MiniMOTD v2.1.5
+[02:07:18] [Server thread/INFO]: [PvPManager] Loading server plugin PvPManager v3.18.44
+[02:07:18] [Server thread/INFO]: [sleep-most] Loading server plugin sleep-most v5.5.3
+[02:07:18] [Server thread/INFO]: [DriveBackupV2] Loading server plugin DriveBackupV2 v1.8.0
+[02:07:18] [Server thread/INFO]: [DevHider] Loading server plugin DevHider v0.8
+[02:07:18] [Server thread/INFO]: [ChatFilter] Loading server plugin ChatFilter v2.0.14
+[02:07:18] [Server thread/INFO]: [SavageDeathCompass] Loading server plugin SavageDeathCompass v1.18.4
+[02:07:18] [Server thread/INFO]: [Emotes] Loading server plugin Emotes v1.6
+[02:07:18] [Server thread/INFO]: [RealisticSeasons] Loading server plugin RealisticSeasons v11.4.4
+[02:07:18] [Server thread/INFO]: [DiscordSRVUtils] Loading server plugin DiscordSRVUtils v1.2.14-BETA-1
+[02:07:19] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.1
+[02:07:19] [Server thread/INFO]: [InteractiveChatDiscordSRVAddon] Loading server plugin InteractiveChatDiscordSrvAddon v4.2.16.0
+[02:07:19] [Server thread/INFO]: [DiscordSRV] API listener com.loohp.interactivechatdiscordsrvaddon.listeners.DiscordCommandEvents subscribed (1 methods)
+[02:07:19] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.3.0
+[02:07:19] [Server thread/INFO]: [InteractionVisualizer] Loading server plugin InteractionVisualizer v1.18.13.0
+[02:07:19] [Server thread/INFO]: [CoordinatesHUD] Loading server plugin CoordinatesHud v1.0
+[02:07:19] [Server thread/INFO]: [Ultimate_Name_Color] Loading server plugin Ultimate_Name_Color v1.4.0
+[02:07:19] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:07:19] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.157
+[02:07:19] [Server thread/INFO]:         __    
+[02:07:19] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.157
+[02:07:19] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[02:07:19] [Server thread/INFO]: 
+[02:07:19] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[02:07:20] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[02:07:21] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[02:07:21] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[02:07:21] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2886ms)
+[02:07:21] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[02:07:22] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[02:07:22] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[02:07:22] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[02:07:22] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[02:07:22] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0
+[02:07:22] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.0-beta-03+d6d222e
+[02:07:22] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[02:07:22] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[02:07:22] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R3.PaperweightAdapter as the Bukkit adapter
+[02:07:24] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.1
+[02:07:25] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[02:07:25] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.4.
+[02:07:26] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[02:07:26] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.6.1]
+[02:07:26] [Server thread/INFO]: [SkinsRestorer] PlaceholderAPI expansion registered!
+[02:07:26] [Server thread/WARN]: [SkinsRestorer] Please update your Java runtime to at least Java 21 (your version is 17).
+[02:07:26] [Server thread/WARN]: [SkinsRestorer] At some point in the future, SkinsRestorer will no longer be compatible with this version of Java.
+[02:07:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:07:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:07:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:07:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:07:26] [Server thread/INFO]: Preparing level "world"
+[02:07:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:07:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[02:07:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[02:07:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[02:07:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[02:07:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[02:07:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:07:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.1
+[02:07:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 8687003
+[02:07:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[02:07:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:07:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[02:07:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[02:07:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:07:30] [Server thread/INFO]: Time elapsed: 1461 ms
+[02:07:30] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:07:31] [Server thread/INFO]: Time elapsed: 120 ms
+[02:07:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:07:31] [Server thread/INFO]: Time elapsed: 293 ms
+[02:07:31] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[02:07:32] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[02:07:32] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0
+[02:07:33] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[02:07:33] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[02:07:33] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[02:07:33] [Server thread/INFO]: [Essentials] Selected 1.9-1.20.4 Potion Meta Provider as the provider for PotionMetaProvider
+[02:07:33] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[02:07:33] [Server thread/INFO]: [Essentials] Selected Legacy InventoryView Abstract Class ABI Provider as the provider for InventoryViewProvider
+[02:07:33] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[02:07:33] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[02:07:33] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[02:07:33] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[02:07:33] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[02:07:33] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[02:07:34] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[02:07:34] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[02:07:34] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[02:07:34] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[02:07:34] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[02:07:34] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[02:07:34] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[02:07:34] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[02:07:34] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[02:07:34] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[02:07:34] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[02:07:34] [Server thread/INFO]: [Essentials] Selected Reflection Sync Commands Provider as the provider for SyncCommandsProvider
+[02:07:34] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[02:07:34] [Server thread/INFO]: [Essentials] Loaded 43465 items from items.json.
+[02:07:34] [Server thread/INFO]: [Essentials] Using locale en_US
+[02:07:34] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[02:07:35] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[02:07:35] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[02:07:35] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[02:07:35] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v1.29.0
+[02:07:35] [Server thread/INFO]: [TAB] Enabling TAB v5.0.7
+[02:07:36] [Server thread/INFO]: [TAB] Loaded NMS hook in 420ms
+[02:07:36] [pool-30-thread-1/INFO]: [DiscordSRV] DiscordSRV is up-to-date. (9d4734818ab27069d76f264a4cda74a699806770)
+[02:07:37] [Server thread/INFO]: [TAB] Enabled in 795ms
+[02:07:37] [Server thread/INFO]: [GSit] Enabling GSit v2.1.0
+[02:07:37] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: gsit [2.1.0]
+[02:07:37] [Server thread/INFO]: [SHUBHAMOS] The plugin was successfully enabled.
+[02:07:37] [Server thread/INFO]: [SHUBHAMOS] Link with PlaceholderAPI successful!
+[02:07:37] [Server thread/INFO]: [InteractiveChat] Enabling InteractiveChat v4.2.16.0
+[02:07:37] [DiscordSRV - Initialization/INFO]: [DiscordSRV] [JDA] Login Successful!
+[02:07:38] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Connected to WebSocket
+[02:07:39] [Server thread/INFO]: [InteractiveChat] Opened Sqlite database successfully
+[02:07:39] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Finished Loading!
+[02:07:39] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Console channel ID was invalid, not forwarding console output
+[02:07:40] [DiscordSRV - Initialization/INFO]: [DiscordSRV] [ACCOUNT_LINKING DEBUG] Not using JDBC, one of host/port/database was default
+[02:07:40] [DiscordSRV - Initialization/INFO]: [DiscordSRV] [ACCOUNT_LINKING DEBUG] Reading accounts.aof file...
+[02:07:40] [DiscordSRV - Initialization/INFO]: [DiscordSRV] [ACCOUNT_LINKING DEBUG] Finished reading accounts.aof file
+[02:07:40] [DiscordSRV - Initialization/INFO]: [DiscordSRV] [ACCOUNT_LINKING DEBUG] Saving accounts.aof file...
+[02:07:40] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Saved linked accounts in 76ms
+[02:07:40] [DiscordSRV - Initialization/INFO]: [DiscordSRV] [ACCOUNT_LINKING DEBUG] AppendOnlyFileAccountLinkManager loaded 77 linked accounts
+[02:07:40] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Enabling Essentials hook
+[02:07:40] [Server thread/INFO]: [InteractiveChat] InteractiveChat has hooked into Essentials!
+[02:07:40] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Enabling LuckPerms hook
+[02:07:40] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Enabling PlaceholderAPI hook
+[02:07:40] [Server thread/INFO]: [InteractiveChat] InteractiveChat has hooked into DiscordSRV!
+[02:07:40] [Server thread/INFO]: [DiscordSRV] API listener com.loohp.interactivechat.hooks.discordsrv.DiscordSRVEvents subscribed (2 methods)
+[02:07:40] [Server thread/INFO]: [InteractiveChat] InteractiveChat has hooked into LuckPerms!
+[02:07:40] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Enabling voice module
+[02:07:40] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: interactivechat [4.2.16.0]
+[02:07:40] [Server thread/INFO]: [InteractiveChat] InteractiveChat has been Enabled!
+[02:07:40] [Server thread/INFO]: [OtherAnimalTeleport] Enabling OtherAnimalTeleport v2.4-b98
+[02:07:40] [Server thread/INFO]: [TabCompleteFilter] Enabling TabCompleteFilter v1.2.5
+[02:07:40] [Server thread/INFO]: [MiniMOTD] Enabling MiniMOTD v2.1.5
+[02:07:42] [Server thread/INFO]: [PvPManager] Enabling PvPManager v3.18.44
+[02:07:42] [Server thread/INFO]: [PvPManager] Using player nametags: true
+[02:07:42] [Server thread/INFO]: [PvPManager] Connected to SQLITE database successfully
+[02:07:42] [Server thread/INFO]: [PvPManager] Players stored: 22
+[02:07:42] [Server thread/INFO]: [PvPManager] TAB detected. If you want nametags to change while in combat, set 'anti-override' to false in TAB's config. (Doing that will prevent TAB from changing nametags)
+[02:07:42] [Server thread/INFO]: [PvPManager] Or use the premium version of PvPManager which hooks into TAB for nametag/tablist changes.
+[02:07:42] [Server thread/INFO]: [PvPManager] Essentials Found! Hooked successfully
+[02:07:42] [Server thread/INFO]: [PvPManager] Vault Found! Using it for currency related features
+[02:07:42] [Server thread/INFO]: [PvPManager] PlaceholderAPI Found! Hooked successfully
+[02:07:42] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: pvpmanager [3.18.44]
+[02:07:42] [PvPManager Worker Thread - 0/INFO]: [PvPManager] Applied the PvP disabled fee of 50 to 0 players.
+[02:07:42] [Server thread/INFO]: [PvPManager] PvPManager v3.18.44 enabled (384 ms)
+[02:07:42] [Server thread/INFO]: [sleep-most] Enabling sleep-most v5.5.3
+[02:07:42] [Server thread/INFO]: [sleep-most] Hooked to PlaceholderAPI
+[02:07:42] [Server thread/INFO]: [sleep-most] Hooked to GSit
+[02:07:42] [Server thread/INFO]: [sleep-most] Hooked to Essentials
+[02:07:42] [Server thread/INFO]: [sleep-most] GSit hook detected and registered GSit event listener
+[02:07:42] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: sleepmost [5.5.3]
+[02:07:42] [Server thread/INFO]: [DriveBackupV2] Enabling DriveBackupV2 v1.8.0
+[02:07:44] [Server thread/INFO]: [DriveBackupV2] Config loaded!
+[02:07:44] [Server thread/INFO]: [DriveBackupV2] Metrics started
+[02:07:44] [Server thread/INFO]: [DevHider] Enabling DevHider v0.8*
+[02:07:44] [Server thread/INFO]: 
+[02:07:44] [Server thread/INFO]:  DevHider enabled! Coded by DevAnonymous | version 0.8
+[02:07:44] [Server thread/INFO]: 
+[02:07:44] [Server thread/INFO]: [ChatFilter] Enabling ChatFilter v2.0.14
+[02:07:44] [Server thread/INFO]: [ChatFilter] Loaded using locale: en
+[02:07:44] [Server thread/INFO]: [ChatFilter] 55 Enabled word filters.
+[02:07:44] [Server thread/INFO]: [ChatFilter] 2 Enabled advertising filters.
+[02:07:44] [Server thread/INFO]: [ChatFilter] 348 whitelisted items.
+[02:07:44] [Server thread/INFO]: [SavageDeathCompass] Enabling SavageDeathCompass v1.18.4
+[02:07:44] [Server thread/INFO]: [SavageDeathCompass] Language file en-US.yml successfully loaded.
+[02:07:44] [Server thread/INFO]: [SavageDeathCompass] Sound file sounds.yml successfully loaded.
+[02:07:44] [Server thread/INFO]: [SavageDeathCompass] SQLite datastore initialized.
+[02:07:44] [Server thread/INFO]: [Emotes] Enabling Emotes v1.6*
+[02:07:44] [Server thread/INFO]: [RealisticSeasons] Enabling RealisticSeasons v11.4.4
+[02:07:44] [Server thread/INFO]: [RealisticSeasons] [STDOUT] [Spigotunlocked.com] - COSMO
+[02:07:44] [Server thread/WARN]: Nag author(s): '[]' of 'RealisticSeasons v11.4.4' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[02:07:44] [Server thread/INFO]: [DiscordSRVUtils] Enabling DiscordSRVUtils v1.2.14-BETA-1
+[02:07:45] [PvPManager Worker Thread - 1/INFO]: [PvPManager] Checking for updates...
+[02:07:45] [Server thread/INFO]: 
+[]=====[Enabling DiscordSRVUtils]=====[]
+| Information:
+|   Name: DiscordSRVUtils
+|   Developers: BlueTree242
+|   Version: 1.2.14-BETA-1
+|   Storage: HsqlDB
+| Support:
+|   Github: https://github.com/BlueTree242/BlueDevelopersInc/issues
+|   Wiki: https://wiki.discordsrvutils.xyz
+|   Discord: https://discordsrvutils.xyz/support
+[]====================================[]
+[02:07:45] [PvPManager Worker Thread - 1/INFO]: [PvPManager] No update found
+[02:07:45] [Server thread/INFO]: [DiscordSRVUtils] MySQL is disabled, using hsqldb
+[02:07:45] [Server thread/INFO]: [DiscordSRVUtils] HikariPool-1 - Starting...
+[02:07:47] [Server thread/INFO]: [DiscordSRVUtils] HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+[02:07:47] [Server thread/INFO]: [DiscordSRVUtils] HikariPool-1 - Start completed.
+[02:07:47] [Server thread/INFO]: [DiscordSRVUtils] [Flyway] Schema "PUBLIC" is up to date. No migration necessary.
+[02:07:47] [Server thread/INFO]: [DiscordSRVUtils] MySQL/HsqlDB Connected & Setup
+[02:07:47] [Server thread/INFO]: [DiscordSRV] API listener dev.bluetree242.discordsrvutils.listeners.discordsrv.DiscordSRVListener subscribed (3 methods)
+[02:07:47] [Server thread/INFO]: [InteractiveChatDiscordSRVAddon] Enabling InteractiveChatDiscordSrvAddon v4.2.16.0
+[02:07:47] [DSU-THREAD/INFO]: [DiscordSRVUtils] Successfully hooked into Essentials
+[02:07:48] [Thread-34/INFO]: [DiscordSRVUtils] Pre-Loaded JOOQ classes in 2.41 Seconds.
+[02:07:48] [Server thread/INFO]: [ICDiscordSrvAddon] Loaded library "eclipse-collections-api-11.0.0-remapped.jar"
+[02:07:48] [Server thread/INFO]: [ICDiscordSrvAddon] Loaded library "eclipse-collections-forkjoin-11.0.0-remapped.jar"
+[02:07:48] [Server thread/INFO]: [ICDiscordSrvAddon] Loaded library "fastutil-8.5.9-remapped.jar"
+[02:07:48] [Server thread/INFO]: [ICDiscordSrvAddon] Loaded library "elsa-3.0.0-M5-remapped.jar"
+[02:07:48] [Server thread/INFO]: [ICDiscordSrvAddon] Loaded library "fest-reflect-1.4.1-remapped.jar"
+[02:07:48] [Server thread/INFO]: [ICDiscordSrvAddon] Loaded library "bungeecord-chat-1.16-R0.4-remapped.jar"
+[02:07:48] [Server thread/INFO]: [ICDiscordSrvAddon] Loaded library "eclipse-collections-11.0.0-remapped.jar"
+[02:07:48] [Server thread/INFO]: [ICDiscordSrvAddon] Loaded library "icu4j-71.1-remapped.jar"
+[02:07:48] [Server thread/INFO]: [ICDiscordSrvAddon] Loaded library "kotlin-stdlib-1.6.21-remapped.jar"
+[02:07:48] [Server thread/INFO]: [ICDiscordSrvAddon] Loaded library "mapdb-3.0.8-remapped.jar"
+[02:07:48] [Server thread/INFO]: [ICDiscordSrvAddon] Loaded library "lz4-1.3.0-remapped.jar"
+[02:07:48] [Server thread/INFO]: [InteractiveChat] Loading languages...
+[02:07:48] [Server thread/INFO]: [DiscordSRV] API listener com.loohp.interactivechatdiscordsrvaddon.listeners.DiscordReadyEvents subscribed (1 methods)
+[02:07:48] [Server thread/INFO]: [DiscordSRV] API listener com.loohp.interactivechatdiscordsrvaddon.listeners.LegacyDiscordCommandEvents subscribed (1 methods)
+[02:07:48] [Server thread/INFO]: [DiscordSRV] API listener com.loohp.interactivechatdiscordsrvaddon.listeners.OutboundToDiscordEvents subscribed (16 methods)
+[02:07:48] [Server thread/INFO]: [DiscordSRV] API listener com.loohp.interactivechatdiscordsrvaddon.listeners.InboundToGameEvents subscribed (8 methods)
+[02:07:48] [Server thread/INFO]: [ICDiscordSrvAddon] InteractiveChat DiscordSRV Addon has been Enabled!
+[02:07:48] [DiscordSRV - JDA Callback 0/INFO]: [DiscordSRV] Successfully registered 33 slash commands (0 conflicted) for 2 plugins in 1/1 guilds (0 cancelled)
+[02:07:48] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
+[02:07:49] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[02:07:49] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[02:07:49] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[02:07:49] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[02:07:49] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[02:07:49] [Server thread/INFO]: [InteractionVisualizer] Enabling InteractionVisualizer v1.18.13.0
+[02:07:54] [Server thread/INFO]: [InteractionVisualizer] Opened Sqlite database successfully
+[02:07:55] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: interactionvisualizer [2.0.0]
+[02:07:55] [Server thread/INFO]: [InteractionVisualizer] InteractionVisualizer has been enabled!
+[02:07:55] [DSU-THREAD/INFO]: [DiscordSRVUtils] Successfully hooked into PlaceholderAPI
+[02:07:55] [Server thread/INFO]: [CoordinatesHUD] Enabling CoordinatesHud v1.0
+[02:07:55] [Server thread/INFO]: [CoordinatesHUD] CoordinatesHUD Enabled
+[02:07:55] [Server thread/INFO]: [Ultimate_Name_Color] Enabling Ultimate_Name_Color v1.4.0*
+[02:07:55] [Server thread/INFO]: #########################################
+[02:07:55] [Server thread/INFO]: #                                       #
+[02:07:55] [Server thread/INFO]: ##########[Ultimate Name Color]##########
+[02:07:55] [Server thread/INFO]: #                                       #
+[02:07:55] [Server thread/INFO]: #           Has been enabled!           #
+[02:07:55] [Server thread/INFO]: #                                       #
+[02:07:55] [Server thread/INFO]: #            ______________             #
+[02:07:55] [Server thread/INFO]: ##          |Version: 1.4.0|           ##
+[02:07:55] [Server thread/INFO]: #########################################
+[02:07:56] [DSU-THREAD/INFO]: [DiscordSRVUtils] Plugin is ready to function.
+[02:07:56] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[02:07:56] [Server thread/INFO]: Starting remote control listener
+[02:07:56] [Server thread/INFO]: Thread RCON Listener started
+[02:07:56] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[02:07:56] [Server thread/INFO]: Running delayed init tasks
+[02:07:56] [Craft Scheduler Thread - 6 - InteractiveChat/INFO]: [InteractiveChat] Loading languages...
+[02:07:56] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[02:07:56] [Craft Scheduler Thread - 7 - DriveBackupV2/INFO]: [DriveBackupV2] Checking for updates...
+[02:07:56] [Craft Scheduler Thread - 5 - Essentials/INFO]: [Essentials] Fetching version information...
+[02:07:56] [Craft Scheduler Thread - 11 - InteractionVisualizer/INFO]: [InteractionVisualizer] Downloading and extracting latest Language files...
+[02:07:56] [Craft Scheduler Thread - 20 - Vault/INFO]: [Vault] Checking for Updates ... 
+[02:07:56] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: discordsrv [1.29.0]
+[02:07:56] [Server thread/INFO]: [RealisticSeasons] [STDOUT] [Spigotunlocked.com] - COSMO
+[02:07:56] [Craft Scheduler Thread - 20 - Vault/INFO]: [Vault] No new version available
+[02:07:56] [Craft Scheduler Thread - 11 - InteractionVisualizer/INFO]: [InteractionVisualizer] Sucessfully downloaded the latest Language files!
+[02:07:57] [Craft Scheduler Thread - 12 - DiscordSRVUtils/INFO]: [DiscordSRVUtils] You are up to date.
+[02:07:57] [Craft Scheduler Thread - 14 - InteractiveChatDiscordSrvAddon/INFO]: [ICDiscordSrvAddon] Checking for server resource pack...
+[02:07:57] [Craft Scheduler Thread - 14 - InteractiveChatDiscordSrvAddon/INFO]: [ICDiscordSrvAddon] No server resource pack found
+[02:07:57] [Craft Scheduler Thread - 14 - InteractiveChatDiscordSrvAddon/INFO]: [ICDiscordSrvAddon] Reloading ResourceManager: Default
+[02:07:57] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: rs [1.0.0]
+[02:07:58] [Server thread/INFO]: [RealisticSeasons] Total biomes registered on server: 1068
+[02:07:58] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: discordsrvutils [1.2.14-BETA-1]
+[02:07:58] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: discordsrvutils [1.2.14-BETA-1]
+[02:07:58] [Server thread/WARN]: [OtherAnimalTeleport] Unrecognized world name specified (world2)! Skipping...
+[02:07:58] [Server thread/WARN]: [OtherAnimalTeleport] Unrecognized world name specified (world2_nether)! Skipping...
+[02:07:58] [Server thread/INFO]: [OtherAnimalTeleport] AnimalTeleport has been enabled!
+[02:07:58] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: essentials [1.5.2]
+[02:07:58] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
+[02:07:58] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
+[02:07:58] [Server thread/INFO]: 3 placeholder hook(s) registered!
+[02:07:58] [Server thread/INFO]: Done (52.933s)! For help, type "help"
+[02:07:58] [Server thread/INFO]: Timings Reset
+[02:07:58] [Craft Scheduler Thread - 9 - OtherAnimalTeleport/WARN]: [OtherAnimalTeleport] Hooray! You're running the latest version!
+[02:07:58] [DiscordSRV - JDA Callback 0/INFO]: [DiscordSRV] Successfully registered 33 slash commands (0 conflicted) for 2 plugins in 1/1 guilds (0 cancelled)
+[02:07:59] [Craft Scheduler Thread - 14 - InteractiveChatDiscordSrvAddon/INFO]: [ICDiscordSrvAddon] Registered ModManager "Optifine" of class "com.loohp.interactivechatdiscordsrvaddon.resources.mods.optifine.OptifineManager"
+[02:07:59] [Craft Scheduler Thread - 14 - InteractiveChatDiscordSrvAddon/INFO]: [ICDiscordSrvAddon] Registered ModManager "Chime" of class "com.loohp.interactivechatdiscordsrvaddon.resources.mods.chime.ChimeManager"
+[02:07:59] [Craft Scheduler Thread - 14 - InteractiveChatDiscordSrvAddon/INFO]: [ICDiscordSrvAddon] Loading "Default" resources...
+[02:08:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3877ms or 77 ticks behind
+[02:08:02] [Craft Scheduler Thread - 13 - InteractiveChat/INFO]: [InteractiveChat] Loaded all 1 languages!
+[02:08:06] [Craft Scheduler Thread - 22 - InteractiveChat/INFO]: [InteractiveChat] Loaded all 1 languages!
+[02:08:11] [Server thread/INFO]: [ICDiscordSrvAddon] Loaded all resources!
+[02:11:57] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [🌐 | SMP MEMBERS] Dark_YT (replying to Devilkings ☯) > Huhhh why?
+[02:12:01] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [🌐 | SMP MEMBERS] Dark_YT > @Devilkings :yin_yang:
+[02:15:41] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[02:15:41] [Server thread/INFO]: [Rcon: Stopping the server]
+[02:15:41] [RCON Client /0:0:0:0:0:0:0:1 #2/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[02:15:41] [Server thread/INFO]: Stopping server
+[02:15:41] [Server thread/INFO]: [Ultimate_Name_Color] Disabling Ultimate_Name_Color v1.4.0
+[02:15:41] [Server thread/INFO]: #########################################
+[02:15:41] [Server thread/INFO]: #                                       #
+[02:15:41] [Server thread/INFO]: ##########Ultimate Name Color##########
+[02:15:41] [Server thread/INFO]: #                                       #
+[02:15:41] [Server thread/INFO]: #          Has ben disabled!            #
+[02:15:41] [Server thread/INFO]: #                                       #
+[02:15:41] [Server thread/INFO]: #            ______________             #
+[02:15:41] [Server thread/INFO]: ##          |Version: 1.4.0|           ##
+[02:15:41] [Server thread/INFO]: #########################################
+[02:15:41] [Server thread/INFO]: [CoordinatesHUD] Disabling CoordinatesHud v1.0
+[02:15:41] [Server thread/INFO]: [CoordinatesHUD] CoordinatesHUD Disabled
+[02:15:41] [Server thread/INFO]: [InteractionVisualizer] Disabling InteractionVisualizer v1.18.13.0
+[02:15:41] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion interactionvisualizer
+[02:15:41] [Server thread/INFO]: [PlaceholderAPI] Reason: required plugin InteractionVisualizer was disabled.
+[02:15:41] [Server thread/INFO]: [InteractionVisualizer] Saving player preferences bitmask index, do not halt the server.
+[02:15:41] [Server thread/INFO]: [InteractionVisualizer] InteractionVisualizer has been disabled!
+[02:15:41] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.3.0
+[02:15:41] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[02:15:41] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[02:15:41] [Server thread/INFO]: [InteractiveChatDiscordSRVAddon] Disabling InteractiveChatDiscordSrvAddon v4.2.16.0
+[02:15:41] [Server thread/INFO]: [ICDiscordSrvAddon] InteractiveChat DiscordSRV Addon has been Disabled!
+[02:15:41] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.1
+[02:15:41] [Server thread/INFO]: [DiscordSRVUtils] Disabling DiscordSRVUtils v1.2.14-BETA-1
+[02:15:41] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion discordsrvutils
+[02:15:41] [Server thread/INFO]: [PlaceholderAPI] Reason: required plugin DiscordSRVUtils was disabled.
+[02:15:41] [Server thread/INFO]: [DiscordSRV] API listener dev.bluetree242.discordsrvutils.listeners.discordsrv.DiscordSRVListener unsubscribed
+[02:15:41] [Server thread/INFO]: [DiscordSRVUtils] HikariPool-1 - Shutdown initiated...
+[02:15:41] [Server thread/INFO]: [DiscordSRVUtils] HikariPool-1 - Shutdown completed.
+[02:15:41] [Server thread/INFO]: [RealisticSeasons] Disabling RealisticSeasons v11.4.4
+[02:15:41] [Server thread/INFO]: [Emotes] Disabling Emotes v1.6
+[02:15:41] [Server thread/INFO]: [SavageDeathCompass] Disabling SavageDeathCompass v1.18.4
+[02:15:41] [Server thread/INFO]: [SavageDeathCompass] SQLite database connection closed.
+[02:15:41] [Server thread/INFO]: [ChatFilter] Disabling ChatFilter v2.0.14
+[02:15:41] [Server thread/INFO]: [DevHider] Disabling DevHider v0.8
+[02:15:41] [Server thread/INFO]: 
+[02:15:41] [Server thread/INFO]:  DevHider disabled! Coded by DevAnonymous | version 0.8
+[02:15:41] [Server thread/INFO]: 
+[02:15:41] [Server thread/INFO]: [DriveBackupV2] Disabling DriveBackupV2 v1.8.0
+[02:15:41] [Server thread/INFO]: [DriveBackupV2] Stopping plugin!
+[02:15:41] [Server thread/INFO]: [sleep-most] Disabling sleep-most v5.5.3
+[02:15:41] [Server thread/INFO]: [PvPManager] Disabling PvPManager v3.18.44
+[02:15:41] [Server thread/INFO]: [PvPManager] Saving player data to storage...
+[02:15:41] [Server thread/INFO]: [PvPManager] Closed SQLITE storage
+[02:15:41] [Server thread/INFO]: [MiniMOTD] Disabling MiniMOTD v2.1.5
+[02:15:41] [Server thread/INFO]: [TabCompleteFilter] Disabling TabCompleteFilter v1.2.5
+[02:15:41] [Server thread/INFO]: [OtherAnimalTeleport] Disabling OtherAnimalTeleport v2.4-b98
+[02:15:41] [Server thread/INFO]: [InteractiveChat] Disabling InteractiveChat v4.2.16.0
+[02:15:41] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion interactivechat
+[02:15:41] [Server thread/INFO]: [PlaceholderAPI] Reason: required plugin InteractiveChat was disabled.
+[02:15:41] [Server thread/INFO]: [InteractiveChat] InteractiveChat has been Disabled!
+[02:15:41] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.0-beta-03+d6d222e
+[02:15:41] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[02:15:41] [Server thread/INFO]: [GSit] Disabling GSit v2.1.0
+[02:15:41] [Server thread/INFO]: [SHUBHAMOS] The plugin was successfully disabled.
+[02:15:41] [Server thread/INFO]: [TAB] Disabling TAB v5.0.7
+[02:15:41] [Server thread/INFO]: [TAB] Disabled in 0ms
+[02:15:41] [Server thread/INFO]: [DiscordSRV] Disabling DiscordSRV v1.29.0
+[02:15:56] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.3.0
+[02:15:56] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0
+[02:15:56] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[02:15:56] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[02:15:56] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[02:15:56] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.157
+[02:15:56] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[02:15:56] [Server thread/INFO]: [LuckPerms] Closing storage...
+[02:15:56] [Server thread/INFO]: [LuckPerms] Goodbye!
+[02:15:56] [Server thread/INFO]: Saving players
+[02:15:56] [Server thread/INFO]: Saving worlds
+[02:15:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:15:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[02:15:56] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[02:15:56] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[02:15:56] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 58 entity chunks, 0 poi chunks in world 'world' in 0.01s
+[02:15:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:15:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[02:15:57] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[02:15:57] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[02:15:57] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[02:15:57] [Server thread/INFO]: [ChunkHolderManager] Saved 7 block chunks, 30 entity chunks, 0 poi chunks in world 'world_nether' in 0.02s
+[02:15:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:15:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[02:15:57] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[02:15:57] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[02:15:57] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[02:15:57] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[02:15:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:15:57] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:15:57] [Server thread/INFO]: Flushing Chunk IO
+[02:15:57] [Server thread/INFO]: Closing Thread Pool
+[02:15:57] [Server thread/INFO]: Closing Server

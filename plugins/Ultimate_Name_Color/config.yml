@@ -1,0 +1,70 @@
+No_Permission: '&aYou do not have permission to do this!'
+Permission-ex: false
+Essentials: true
+Menu_style: 3
+Return: '&aReturn'
+Name_Color:
+  Name: '            &lSHUBHAMOS'
+  Message: '&e&l> &aYour name color has been changed!'
+  Red: '&5&lRed'
+  Cyan: '&5&lCyan'
+  Blue: '&5&lBlue'
+  Black: '&5&lBlack'
+  Gray: '&5&lGray'
+  Dark_Green: '&5&lDark Green'
+  Aqua: '&5&lAqua'
+  Light_Green: '&5&lLight Green'
+  Purple: '&5&lPurple'
+  Pink: '&5&lPink'
+  Gold: '&5&lGold'
+  Yellow: '&5&lYellow'
+  Dark_Red: '&5&lDark Red'
+  White: '&5&lWhite'
+Chat_Color:
+  Name: '            &lChat Color'
+  Message: '&e&l> &aYour chat color has been changed!'
+  Red: '&a&lRed'
+  Cyan: '&a&lCyan'
+  Blue: '&a&lBlue'
+  Black: '&a&lBlack'
+  Gray: '&a&lGray'
+  Dark_Green: '&a&lDark Green'
+  Aqua: '&a&lAqua'
+  Light_Green: '&a&lLight Green'
+  Purple: '&a&lPurple'
+  Pink: '&a&lPink'
+  Gold: '&a&lGold'
+  Yellow: '&a&lYellow'
+  Dark_Red: '&a&lDark Red'
+  White: '&a&lWhite'
+Tab_Color:
+  Name: '           &lTab Color'
+  Message: '&e&l> &aYour tab color has been changed!'
+  Red: '&b&lRed'
+  Cyan: '&b&lCyan'
+  Blue: '&b&lBlue'
+  Black: '&b&lBlack'
+  Gray: '&b&lGray'
+  Dark_Green: '&b&lDark Green'
+  Aqua: '&b&lAqua'
+  Light_Green: '&b&lLight Green'
+  Purple: '&b&lPurple'
+  Pink: '&b&lPink'
+  Gold: '&b&lGold'
+  Yellow: '&b&lYellow'
+  Dark_Red: '&b&lDark Red'
+  White: '&b&lWhite'
+Main_Gui:
+  Name: '      &lWhat you want do?'
+  Name_Color:
+    Name: '&5&lChange name color'
+    Item: NAME_TAG
+  Chat_Color:
+    Name: '&a&lChange chat color'
+    Item: PAPER
+  Tab_Color:
+    Name: '&b&lChange tab color'
+    Item: BOOK
+  Exit_Gui:
+    Name: '&c&lExit'
+    Item: BARRIER

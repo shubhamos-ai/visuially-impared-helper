@@ -1,0 +1,63 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.17.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1743404735831
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1743404914048
+  login: 1743402331207
+money: '0.0'
+last-account-name: boredguy123
+homes:
+  home:
+    world: 6bba3a19-3c6c-4152-b493-3df7c2cbd427
+    world-name: world
+    x: -53.60205719849671
+    y: -27.0
+    z: -546.8719191234591
+    yaw: 75.50152587890625
+    pitch: 10.000711441040039
+  jjjj:
+    world: 6bba3a19-3c6c-4152-b493-3df7c2cbd427
+    world-name: world
+    x: -66.38943809784709
+    y: -24.0
+    z: -566.7304249248909
+    yaw: 174.9595184326172
+    pitch: 10.204244613647461
+  jj:
+    world: 6bba3a19-3c6c-4152-b493-3df7c2cbd427
+    world-name: world
+    x: 189.0011309720747
+    y: 120.0
+    z: -1020.0820777563098
+    yaw: -100.303466796875
+    pitch: 15.021098136901855
+lastlocation:
+  world: 6bba3a19-3c6c-4152-b493-3df7c2cbd427
+  world-name: world
+  x: 189.75617281299506
+  y: 120.0
+  z: -1018.8808811567179
+  yaw: -5.390938758850098
+  pitch: 17.3277645111084
+logoutlocation:
+  world: 6bba3a19-3c6c-4152-b493-3df7c2cbd427
+  world-name: world
+  x: -13.688023438557423
+  y: -50.0
+  z: -504.499343488044
+  yaw: -111.99240112304688
+  pitch: 12.048346519470215

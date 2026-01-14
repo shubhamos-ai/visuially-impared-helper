@@ -1,0 +1,79 @@
+cooldown-message: "&9You're on cooldown from using emote commands!"
+reload-message: "&aMessages, config, custom emotes, and GUI settings reloaded!"
+noPermissions: "&cYou do not have permission to use this command!"
+bad-usage: "&cBad usage, do &o/<emote> [target]"
+bad-usage-remove: "&c&o/emotes <remove> [player]"
+not-online: "&c%target%&c is not online or does not exist!"
+emotes-help:
+  - "&6How to use emotes"
+  - "    &e&m---------"
+  - "&6You can use an emote on its own"
+  - "&6with &e/<emote>"
+  - "&6You can target another player with an emote"
+  - "&6with &e/<emote> [player]"
+  - "&6*-* &eGUI - &o/em &6*-*"
+
+
+## Emotes
+# %player% - Player using the emote
+# %target% - target of the emote
+
+self-highfive: "&b%player%&b goes for a highfive!"
+other-highfive: "&b%player%&b highfives %target%&b!"
+
+self-hug: "&b%player%&b opens their arms for a hug!"
+other-hug: "&b%player%&b hugs %target%&b"
+
+self-kiss: "&b%player%&b puckers up!"
+other-kiss: "&b%player%&b kisses %target%&b!"
+
+self-slap: "&b%player%&b slaps themself!"
+other-slap: "&b%player%&b slaps %target%&b!"
+
+self-flirt: "&b%player%&b flirts"
+other-flirt: "&b%player%&b flirts with %target%&b"
+
+self-dance: "&b%player%&b does a dance!"
+other-dance: "&b%player%&b dances with %target%&b!"
+
+self-smile: "&b%player%&b smiles."
+other-smile: "&b%player%&b smiles at %target%&b."
+
+self-raspberry: "&b%player%&b blows a raspberry!"
+other-raspberry: "&b%player%&b blows a raspberry at %target%&b!"
+
+self-thumbsup: "&b%player%&b gives a thumbs up!"
+other-thumbsup: "&b%player%&b gives a thumbs up to %target%&b!"
+
+self-applaud: "&b%player%&b claps!"
+other-applaud: "&b%player%&b claps for %target%&b!"
+
+self-bark: "&b%player%&b barks!"
+other-bark: "&b%player%&b barks at %target%&b!"
+
+self-beg: "&b%player%&b stats begging!"
+other-beg: "&b%player%&b begs %target%&b!"
+
+self-bow: "&b%player%&b bows!"
+other-bow: "&b%player%&b bows to %target%&b!"
+
+self-cheer: "&b%player%&b cheers!"
+other-cheer: "&b%player%&b cheers for %target%&b!"
+
+self-cry: "&b%player%&b starts crying."
+other-cry: "&b%player%&b cries on %target%&b."
+
+self-eat: "&b%player%&b eats a snack!"
+other-eat: "&b%player%&b eats with %target%&b"
+
+self-greet: "&b%player%&b greets everyone!"
+other-greet: "&b%player%&b greets %target%&b!"
+
+self-poke: "&b%player%&b pokes themself!"
+other-poke: "&b%player%&b pokes %target%&b!"
+
+self-wink: "&b%player%&b winks!"
+other-wink: "&b%player%&b winks at %target%&b!"
+
+self-laugh: "&b%player%&b laughs!"
+other-laugh: "&b%player%&b laughs at %target%&b!"

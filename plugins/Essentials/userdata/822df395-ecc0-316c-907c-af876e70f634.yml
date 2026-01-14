@@ -1,0 +1,41 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.114.7.124
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1742986327413
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1742991494893
+  login: 1742991480984
+  command-cooldowns:
+  - pattern: .*( .*)?
+    value: 1742991493769
+money: '100'
+last-account-name: AKSARR
+lastlocation:
+  world: 89ceb5d1-3206-42e2-b8e5-d1aae768b7c5
+  world-name: world
+  x: 1.318430579495782
+  y: 64.0
+  z: 0.21763328761798126
+  yaw: -72.94564056396484
+  pitch: 6.039163589477539
+logoutlocation:
+  world: 89ceb5d1-3206-42e2-b8e5-d1aae768b7c5
+  world-name: world
+  x: -950.3000000119209
+  y: 67.0
+  z: -768.8061180431201
+  yaw: 127.87699890136719
+  pitch: 17.608484268188477

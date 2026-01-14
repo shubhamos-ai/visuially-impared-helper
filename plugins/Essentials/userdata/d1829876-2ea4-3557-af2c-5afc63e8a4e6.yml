@@ -1,0 +1,58 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.17.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1743780669218
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1743782118240
+  login: 1743781959419
+  command-cooldowns:
+  - pattern: .*( .*)?
+    value: 1743168419268
+money: '0.0'
+last-account-name: Aritralegend
+lastlocation:
+  world: 6bba3a19-3c6c-4152-b493-3df7c2cbd427
+  world-name: world
+  x: -279.06297028935677
+  y: 70.0
+  z: -1457.699999988079
+  yaw: -98.2354736328125
+  pitch: 32.70012283325195
+logoutlocation:
+  world: 6bba3a19-3c6c-4152-b493-3df7c2cbd427
+  world-name: world
+  x: -219.1904137687225
+  y: 82.0
+  z: -1472.699999988079
+  yaw: -121.79718017578125
+  pitch: 22.800033569335938
+homes:
+  mai:
+    world: 6bba3a19-3c6c-4152-b493-3df7c2cbd427
+    world-name: world
+    x: -923.2360107046144
+    y: 71.0
+    z: -589.625978731561
+    yaw: -46.79931640625
+    pitch: 14.24998950958252
+  aritra:
+    world: 6bba3a19-3c6c-4152-b493-3df7c2cbd427
+    world-name: world
+    x: -219.62520401242818
+    y: 82.0
+    z: -1469.3172732154972
+    yaw: -116.83860778808594
+    pitch: 28.602880477905273

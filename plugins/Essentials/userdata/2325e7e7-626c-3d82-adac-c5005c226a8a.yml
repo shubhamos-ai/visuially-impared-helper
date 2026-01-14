@@ -1,0 +1,41 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.114.7.124
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1743098060485
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1743098387577
+  login: 1743097816227
+  command-cooldowns:
+  - pattern: .*( .*)?
+    value: 1743098192280
+money: '100'
+last-account-name: alma02
+logoutlocation:
+  world: 89ceb5d1-3206-42e2-b8e5-d1aae768b7c5
+  world-name: world
+  x: -8.403038495068499
+  y: 61.0
+  z: 0.6625776718615533
+  yaw: 87.85562133789062
+  pitch: 10.444355964660645
+lastlocation:
+  world: 89ceb5d1-3206-42e2-b8e5-d1aae768b7c5
+  world-name: world
+  x: -2.6557941097030415
+  y: 87.0
+  z: -0.17514405315389783
+  yaw: -33.56439208984375
+  pitch: 68.86860656738281

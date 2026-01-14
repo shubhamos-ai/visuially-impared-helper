@@ -1,0 +1,72 @@
+commandMessages:
+  slashtab: none
+  strictslashtab: none
+  help: custom
+  helptab: none
+  version: '&e&lDevHider &7This command was blocked. Try &e/help'
+  versiontab: none
+  ver: '&e&lDevHider &7This command was blocked. Try &e/help'
+  vertab: none
+  pl: '&e&lDevHider &7This command was blocked. Try &e/help'
+  pltab: none
+  plugins: '&e&lDevHider &7This command was blocked. Try &e/help'
+  pluginstab: none
+  about: '&e&lDevHider &7This command was blocked. Try &e/help'
+  abouttab: none
+  me: '&e&lDevHider &7This command was blocked. Try &e/help'
+  metab: none
+  questionMark: '&e&lDevHider &7This command was blocked. Try &e/help'
+  questionMarktab: none
+  icanhasbukkit: '&e&lDevHider &7This command was blocked. Try &e/help'
+  icanhasbukkittab: none
+  bukkitplugins: '&e&lDevHider &7This command was blocked. Try &e/help'
+  bukkitpluginstab: none
+  bukkitpl: '&e&lDevHider &7This command was blocked. Try &e/help'
+  bukkitpltab: none
+  bukkitquestionMark: '&e&lDevHider &7This command was blocked. Try &e/help'
+  bukkitquestionMarktab: none
+  bukkithelp: '&e&lDevHider &7This command was blocked. Try &e/help'
+  bukkithelptab: none
+  bukkitversion: '&e&lDevHider &7This command was blocked. Try &e/help'
+  bukkitversiontab: none
+  bukkitver: '&e&lDevHider &7This command was blocked. Try &e/help'
+  bukkitvertab: none
+  bukkitabout: '&e&lDevHider &7This command was blocked. Try &e/help'
+  bukkitabouttab: none
+  bukkitmsg: '&e&lDevHider &7This command was blocked. Try &e/help'
+  bukkitmsgtab: none
+  bukkitkill: '&e&lDevHider &7This command was blocked. Try &e/help'
+  bukkitkilltab: none
+  bukkittell: '&e&lDevHider &7This command was blocked. Try &e/help'
+  bukkittelltab: none
+  bukkitme: '&e&lDevHider &7This command was blocked. Try &e/help'
+  bukkitmetab: none
+  bukkitw: '&e&lDevHider &7This command was blocked. Try &e/help'
+  bukkitwtab: none
+  minecraftme: '&e&lDevHider &7This command was blocked. Try &e/help'
+  minecraftmetab: none
+  minecraftw: '&e&lDevHider &7This command was blocked. Try &e/help'
+  minecraftwtab: none
+  minecraftmsg: '&e&lDevHider &7This command was blocked. Try &e/help'
+  minecraftmsgtab: none
+  minecrafttell: '&e&lDevHider &7This command was blocked. Try &e/help'
+  minecrafttelltab: none
+tabConfig:
+  blockTab: true
+customHelp:
+  helpMessage:
+  - '&8&m+---------------------------------------------------+'
+  - ' '
+  - ' &7Hi there, &e{pName}&7!'
+  - ' '
+  - ' &7For this feature to work, use ''&ecustom&7'' in the help CommandMessages.
+    To disable, use ''&edisable&7'''
+  - ' '
+  - '&8&m+---------------------------------------------------+'
+  - '&e&lDevHider &7Configure the custom &e/help &7in the &econfig.yml'
+customCommands:
+  blockedMessage: '&e&lDevHider &7This custom command was blocked. Try &e/help'
+  blockedMessagetab: none
+  blockedCommands:
+  - example
+  - example2

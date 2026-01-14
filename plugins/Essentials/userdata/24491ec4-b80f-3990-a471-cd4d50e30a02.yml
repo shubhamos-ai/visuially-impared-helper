@@ -1,0 +1,50 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.17.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1743607534684
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1743752427463
+  login: 1743751429292
+  command-cooldowns:
+  - pattern: .*( .*)?
+    value: 1743178580495
+money: '20.0'
+last-account-name: SadhyaNosy
+lastlocation:
+  world: 6bba3a19-3c6c-4152-b493-3df7c2cbd427
+  world-name: world
+  x: 229.79779327062602
+  y: 84.0
+  z: -404.9749022004048
+  yaw: 87.98883056640625
+  pitch: 11.550219535827637
+homes:
+  home:
+    world: 6bba3a19-3c6c-4152-b493-3df7c2cbd427
+    world-name: world
+    x: 247.23750001192093
+    y: 63.0
+    z: -388.14537077064494
+    yaw: 45.83953857421875
+    pitch: 39.43717956542969
+logoutlocation:
+  world: 6bba3a19-3c6c-4152-b493-3df7c2cbd427
+  world-name: world
+  x: 301.6192748952186
+  y: 62.9375
+  z: -367.6994942596495
+  yaw: -131.81784057617188
+  pitch: 39.22500991821289

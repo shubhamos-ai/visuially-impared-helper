@@ -1,0 +1,58 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.17.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1743786769618
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1743793131636
+  login: 1743791655229
+  command-cooldowns:
+  - pattern: .*( .*)?
+    value: 1743104221773
+money: '45.0'
+last-account-name: recomplified
+lastlocation:
+  world: dd3ebeea-10b9-42ce-85c5-629d21c9566e
+  world-name: world_nether
+  x: -72.21293137161153
+  y: 53.0
+  z: 99.50621736108502
+  yaw: 75.097412109375
+  pitch: -11.81600570678711
+homes:
+  e:
+    world: 6bba3a19-3c6c-4152-b493-3df7c2cbd427
+    world-name: world
+    x: 367.52895193846666
+    y: 127.0
+    z: -280.11386843726604
+    yaw: 31.734405517578125
+    pitch: 24.614465713500977
+  b:
+    world: 6bba3a19-3c6c-4152-b493-3df7c2cbd427
+    world-name: world
+    x: -769.7118595619755
+    y: 85.0
+    z: -562.7082558351369
+    yaw: -1.6802978515625
+    pitch: 39.38892364501953
+logoutlocation:
+  world: 6bba3a19-3c6c-4152-b493-3df7c2cbd427
+  world-name: world
+  x: -639.2420341255113
+  y: 38.0
+  z: -595.5649788729603
+  yaw: -3.13909912109375
+  pitch: 7.888885498046875

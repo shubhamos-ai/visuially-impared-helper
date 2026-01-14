@@ -1,0 +1,27 @@
+## ICONS / GUI Menu Things
+# Keep everything lower case, use proper spacing, no tabs!
+# Use the Material name! An example can be found below, not all default emotes are in the GUI, only those listed.
+# Custom emotes can be put in the gui
+gui:
+  self-name: "&3EMOTES &a-- &9Self Emote!"
+  other-name: "&3EMOTES &a-- &9Targeted Emote!"
+  select-type-name: "&3EMOTES &a-- &9Select type!"
+  pick-player-name: "&3EMOTES &a-- &9Select Target!"
+  indiv-item: "clay_brick"
+  indiv-name: "&bSelf Emote"
+  indiv-lore:
+    - '&9Click to use an'
+    - '&9emote on yourself!'
+  multi-item: "brick"
+  multi-name: "&bTargeted Emote"
+  multi-lore:
+    - '&9Click to use an'
+    - '&9emote on someone!'
+  poke: ### Must be the name of the emote
+    name: "&bPoke!" ## Can be anything with any color codes
+    lore: ## Should be able to handle as many lines as you wish
+      - "&3Click me to"
+      - "&3poke someone!"
+    item-id: "stick" ## Use the proper item name from in game!
+    ## If this emote is a custom made emote, make this true, if it is part of the default emotes, make this false
+    custom: false

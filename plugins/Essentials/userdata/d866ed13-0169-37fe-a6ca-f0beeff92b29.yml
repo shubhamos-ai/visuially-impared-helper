@@ -1,0 +1,51 @@
+teleportenabled: true
+teleportauto: true
+godmode: true
+muted: false
+jailed: false
+ip-address: 172.17.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: true
+timestamps:
+  lastteleport: 1743787410653
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1743788099830
+  login: 1743788024374
+  kits:
+    starter: 1743067067202
+    starterreal: 1743067248539
+    tools: 1743427414970
+money: '-40.0'
+last-account-name: DEVILKINGS_07
+lastlocation:
+  world: dd3ebeea-10b9-42ce-85c5-629d21c9566e
+  world-name: world_nether
+  x: -65.29216397259493
+  y: 43.0
+  z: -77.45957360779799
+  yaw: -178.93658447265625
+  pitch: 24.02214813232422
+logoutlocation:
+  world: 6bba3a19-3c6c-4152-b493-3df7c2cbd427
+  world-name: world
+  x: -219.254341813717
+  y: 82.0
+  z: -1471.282504523331
+  yaw: -28.016843795776367
+  pitch: 16.338359832763672
+homes:
+  _name_:
+    world: 6bba3a19-3c6c-4152-b493-3df7c2cbd427
+    world-name: world
+    x: 1191.6162548984596
+    y: 63.0
+    z: 258.18007063878565
+    yaw: -174.5331573486328
+    pitch: 23.071475982666016

@@ -1,0 +1,28 @@
+{
+  "embed": {
+    "title": ":green_circle: Online",
+    "description": "DevilSMP is Online",
+    "color": "green",
+    "timestamp": "now",
+    "footer": {
+      "text": "DevilSMP is online"
+    },
+    "thumbnail": {
+      "url": "https://c.tenor.com/0q8RbxU72K8AAAAd/tenor.gif"
+    },
+    "fields": [
+      {
+        "name": "Players",
+        "value": "[server.onlineCount]/[server.maxPlayers]"
+      },
+      {
+        "name": "Version",
+        "value": "1.20+"
+      },
+      {
+        "name": "Server IP",
+        "value": "devilsmp.ddns.net:25137"
+      }
+    ]
+  }
+}

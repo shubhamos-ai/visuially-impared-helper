@@ -1,0 +1,21 @@
+## All custom emotes MUST be listed here as well as below with lower casing and same spelling
+## An error will occur if you list something here that doesn't exist below
+custom-emotes:
+  - punch
+  - spin
+
+custom:
+  not-emote: "&cThat isn't a registered emote!"
+  bad-usage: "&cBad usage, do &o/emote <emote> [target]"
+  ## If a custom emote is not done with this syntax, it will fail, and depending on how it is put in, may cause a the plugin to not load
+  ## Make sure you use notepad++ or some other file for editing yml files, and don't use TAB
+  ## These also use the %player% and %target% placeholders! :)
+  punch:
+    permission: "emote.custom.punch"
+    self-punch: "&3%player% &3puts em up!"
+    other-punch: "&3%player% &3punches %target%&3!"
+  spin:
+    permission: "any.permission.you.want"
+    self-spin: "&3%player% &3twirls!"
+    other-spin: "&3%player% &3spins %target%&3 in a circle!"
+ 

@@ -1,0 +1,82 @@
+# Language configuration file for SavageDeathCompass v1.18.4
+
+###########
+# Item Info
+###########
+ITEM_INFO:
+  # Item Display Name
+  ITEM_NAME: '&6Brújula de la Muerte'
+
+  # Item Lore
+  ITEM_LORE:
+  - '&ePuntos para la ubicación'
+  - '&ede su última muerte'
+
+
+# Variable substitutions:
+# %ITEM%            Item name as configured above
+# %PLAYER%          Player's full name
+# %WORLD%           World name that player is in
+
+##########
+# Messages
+##########
+MESSAGES:
+  ACTION_PLAYER_RESPAWN:
+    enabled: true
+    string: '&c%ITEM% apunta a la ubicación de la muerte de %PLAYER%, en %WORLD%.'
+
+  ACTION_ITEM_DESTROY:
+    enabled: true
+    string: '&c%ITEM% destruido.'
+
+  ACTION_INVENTORY_DENY_TRANSFER:
+    enabled: true
+    string: '&c%ITEM% no puede ser colocado en contenedores.'
+
+
+  COMMAND_FAIL_INVALID_COMMAND:
+    enabled: true
+    string: '&c¡Ese no es un comando válido!'
+    # available subs: %PLAYER%
+
+  COMMAND_FAIL_HELP_PERMISSION:
+    enabled: true
+    string: '&c¡No tienes permiso para mostrar la ayuda de DeathCompass!'
+    # available subs: %PLAYER%
+
+  COMMAND_FAIL_RELOAD_PERMISSION:
+    enabled: true
+    string: '&c¡No tienes permiso para volver a cargar la configuración de DeathCompass!'
+    # available subs: %PLAYER%
+
+  COMMAND_FAIL_STATUS_PERMISSION:
+    enabled: true
+    string: '&c¡No tienes permiso para ver la configuración de DeathCompass!'
+    # available subs: %PLAYER%
+
+  COMMAND_SUCCESS_RELOAD:
+    enabled: true
+    string: '&7Se recargó la configuración de DeathCompass.'
+    # available subs: %PLAYER%
+
+
+  COMMAND_HELP_HELP:
+    enabled: true
+    string: '&eMuestra ayuda para los comandos de DeathCompass.'
+
+  COMMAND_HELP_RELOAD:
+    enabled: true
+    string: '&eVuelve a cargar la configuración del complemento.'
+
+  COMMAND_HELP_STATUS:
+    enabled: true
+    string: '&eMuestra los ajustes de configuración del complemento.'
+
+  COMMAND_HELP_INVALID:
+    enabled: true
+    string: '&eEse no es un comando válido.'
+
+  COMMAND_HELP_USAGE:
+    enabled: true
+    string: '&eUso del comando:'

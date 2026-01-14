@@ -1,0 +1,66 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.17.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1743784141018
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1743785036993
+  login: 1743782368070
+  command-cooldowns:
+  - pattern: .*( .*)?
+    value: 1743184604485
+money: '0.0'
+last-account-name: TheRealGeorgian
+lastlocation:
+  world: 6bba3a19-3c6c-4152-b493-3df7c2cbd427
+  world-name: world
+  x: -25.5
+  y: 120.0
+  z: 16.5
+  yaw: -1.6500028371810913
+  pitch: -1.5
+logoutlocation:
+  world: 6bba3a19-3c6c-4152-b493-3df7c2cbd427
+  world-name: world
+  x: -27.5
+  y: 119.0
+  z: 16.5
+  yaw: 0.0
+  pitch: 0.0
+homes:
+  nether:
+    world: 6bba3a19-3c6c-4152-b493-3df7c2cbd427
+    world-name: world
+    x: -952.9075576906057
+    y: 63.0
+    z: -777.6226430700872
+    yaw: 60.0020751953125
+    pitch: 28.199951171875
+  village2:
+    world: 6bba3a19-3c6c-4152-b493-3df7c2cbd427
+    world-name: world
+    x: -822.070496548659
+    y: 63.0
+    z: -524.5261314757189
+    yaw: -165.8988494873047
+    pitch: 17.250003814697266
+  leg:
+    world: 6bba3a19-3c6c-4152-b493-3df7c2cbd427
+    world-name: world
+    x: -1242.9335958838988
+    y: 73.0
+    z: -507.0391387785384
+    yaw: -67.5970458984375
+    pitch: 16.823495864868164

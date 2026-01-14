@@ -1,0 +1,58 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.17.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1743774637118
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1743774813873
+  login: 1743769749919
+  command-cooldowns:
+  - pattern: .*( .*)?
+    value: 1743174865672
+money: '85.0'
+last-account-name: AKSTAR12345
+logoutlocation:
+  world: 6bba3a19-3c6c-4152-b493-3df7c2cbd427
+  world-name: world
+  x: -831.7425410343684
+  y: 67.0
+  z: 2476.7092450038117
+  yaw: -69.67642211914062
+  pitch: 12.771851539611816
+lastlocation:
+  world: 6bba3a19-3c6c-4152-b493-3df7c2cbd427
+  world-name: world
+  x: -815.0545444138542
+  y: 65.0
+  z: 2476.300000011921
+  yaw: 66.2362060546875
+  pitch: 29.294952392578125
+homes:
+  home1:
+    world: 6bba3a19-3c6c-4152-b493-3df7c2cbd427
+    world-name: world
+    x: -3.300000011920929
+    y: -11.0
+    z: -140.60172143753996
+    yaw: 59.88629150390625
+    pitch: -5.946734428405762
+  farm:
+    world: 6bba3a19-3c6c-4152-b493-3df7c2cbd427
+    world-name: world
+    x: -785.8861959556061
+    y: 195.0
+    z: 2466.699999988079
+    yaw: -31.487060546875
+    pitch: 42.566650390625

@@ -1,0 +1,10 @@
+emote-cooldown: 5
+use-sound: true
+sound-effect: "ENTITY_VILLAGER_YES"
+use-particles: true
+
+
+## Only see your own emotes (Not sent to the server)
+only-see-own: false
+## When the above is false, this does nothing, if it's true, this being true will allow the target to see the emotes as well
+target-see-emote: true

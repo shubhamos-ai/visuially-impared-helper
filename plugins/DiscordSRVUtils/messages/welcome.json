@@ -1,0 +1,12 @@
+{
+  "embed": {
+    "thumbnail": {
+      "url": "[user.effectiveAvatarUrl]"
+    },
+    "color": "CYAN",
+    "description": "🔸 **Welcome [user.name] to DevilSMP!**\n\n" +
+                   "🔸 **Server IP**: devilkings.sdlf.fun\n\n" +
+                   "🔸 **Join Minecraft** and send the code to [this Discord channel](https://discord.com/channels/784763845763006474/1188091833889325066), then rejoin Minecraft to play!\n\n" +
+                   "Invited by: **${#inviter == null ? \"Unknown\" : #inviter.getAsTag()}**"
+  }
+}

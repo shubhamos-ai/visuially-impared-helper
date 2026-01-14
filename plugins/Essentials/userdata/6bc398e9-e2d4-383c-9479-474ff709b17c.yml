@@ -1,0 +1,41 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.17.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1743605566517
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1743605580185
+  login: 1743605018798
+  command-cooldowns:
+  - pattern: .*( .*)?
+    value: 1743180353350
+money: '125.0'
+last-account-name: ITS_DARSHIL
+lastlocation:
+  world: dd3ebeea-10b9-42ce-85c5-629d21c9566e
+  world-name: world_nether
+  x: -76.69999998807907
+  y: 55.0
+  z: -82.22793451612151
+  yaw: -58.199676513671875
+  pitch: -22.350093841552734
+logoutlocation:
+  world: 6bba3a19-3c6c-4152-b493-3df7c2cbd427
+  world-name: world
+  x: -898.4525727994694
+  y: 77.0
+  z: -827.6999999880791
+  yaw: -95.24966430664062
+  pitch: 33.45002746582031
